@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="IgnitionPrison:jar">
+    <output-path>$USER_HOME$/Desktop/Test Server/plugins</output-path>
+    <root id="archive" name="IgnitionPrison.jar">
+      <element id="module-output" name="IgnitionPrison" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/spigot_server.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>
